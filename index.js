@@ -1,6 +1,6 @@
 //Declaraçãod e variáveis alteráveis.
-const peso = 70;
-const altura = 1.82;
+let peso = 70;
+let altura = 1.82;
 
 //Variável constante.
 const imc = peso / (altura * altura);
