@@ -12,5 +12,5 @@ if (pessoa.idade >= 12 || pessoa.altura >= 1.40) {
   }
   else {
   console.log(`${pessoa.nome} não atende aos requisitos para brincar...`);
-}  
+}     
  
