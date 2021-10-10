@@ -3,6 +3,7 @@ const peso = 140;
 const altura = 1.90;
 
 //Variável constante.
+
 const imc = peso / (altura * altura);
 
 //Imprimi na tela!
